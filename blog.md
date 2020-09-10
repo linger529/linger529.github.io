@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Blog
-subtitle: Select ramblings of LingShi
+title: 博客
+subtitle: new words
 ---
 
 <div>
