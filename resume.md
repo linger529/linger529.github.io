@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 简历
+title: 个人简历
 subtitle: An awesome person
 ---
 
@@ -11,50 +11,41 @@ subtitle: An awesome person
 ```   ```  
 
 ### 基本信息：
-**姓名** 
+**姓名:** 
 
-**性别** 
+**性别:** 
 
-**联系方式**
+**籍贯:**
 
-**联系方式**
+**联系方式:**
 
 
 ### EDUCATION
 
-Institute <span style="float: right; ">Duration</span>  
+<span style="float: right; ">Duration</span>  
 **Course**  
-Description in gravida nisl. Nulla quis pharetra sem. Nam nec arcu non erat aliquam facilisis eget quis massa. Duis et ultricies diam, non venenatis nisl. Maecenas sed mauris consectetur, faucibus mi ac, commodo velit.  
  
-Institute <span style="float: right; ">Duration</span>  
+ 
+<span style="float: right; ">Duration</span>  
 **Course**  
-Description in gravida nisl. Nulla quis pharetra sem. Nam nec arcu non erat aliquam facilisis eget quis massa. Duis et ultricies diam, non venenatis nisl. Maecenas sed mauris consectetur, faucibus mi ac, commodo velit.  
+  
 
-Institute <span style="float: right; ">Duration</span>  
+<span style="float: right; ">Duration</span>  
 **Course**  
-Description in gravida nisl. Nulla quis pharetra sem. Nam nec arcu non erat aliquam facilisis eget quis massa. Duis et ultricies diam, non venenatis nisl. Maecenas sed mauris consectetur, faucibus mi ac, commodo velit. 
+
 
 ### EXPERIENCE
 
-Title - **Comapany** <span style="float: right; ">Duration</span>  
-_Description Phasellus a tellus volutpat, ornare sapien et, lacinia erat. Suspendisse congue, enim vitae mattis pulvinar, eros lacus porttitor neque, eu sodales nibh metus nec arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;_  
-Technologies used  
+ **Comapany** <span style="float: right; ">Duration</span>  
 
  
-Title - **Comapany** <span style="float: right; ">Duration</span>  
-_Description Phasellus a tellus volutpat, ornare sapien et, lacinia erat. Suspendisse congue, enim vitae mattis pulvinar, eros lacus porttitor neque, eu sodales nibh metus nec arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;_  
-Technologies used  
 
-Title - **Comapany** <span style="float: right; ">Duration</span>  
-_Description Phasellus a tellus volutpat, ornare sapien et, lacinia erat. Suspendisse congue, enim vitae mattis pulvinar, eros lacus porttitor neque, eu sodales nibh metus nec arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;_  
-Technologies used  
+ **Comapany** <span style="float: right; ">Duration</span>  
+  
+
+ **Comapany** <span style="float: right; ">Duration</span>  
 
 
-### RECOGNITION & INTERESTS
+### 
 
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
+- .
