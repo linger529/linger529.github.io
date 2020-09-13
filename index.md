@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hello
-subtitle: My name is shier
+subtitle: 时二的博客
 sitemap:
   priority: 0.9
 ---
@@ -9,6 +9,6 @@ sitemap:
 <img src="{{ '/assets/img/touxiang.jpg' | prepend: site.baseurl }}" id="about-img">
 
 <div id="describe-text">
-	<p> 添加一段话 </p>
+	<p> just want to live it louder </p>
 	<p> 前往 <strong> <a href="https://github.com/linger529/linger529.github.io"> 存储库</a> </strong></p>
 </div>
