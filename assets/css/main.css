@@ -4,7 +4,7 @@
     font-family: 'Quicksand', sans-serif;  
     font-size: 100%;
     color: #012;
-    background-image: url(assets\img\background.jpg) no-repeat; }
+    background-image: url(assets\img\background.jpg); }
 
   a {
     color: #57A;
