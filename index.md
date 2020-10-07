@@ -9,6 +9,6 @@ sitemap:
 <img src="{{ '/assets/img/touxiang.jpg' | prepend: site.baseurl }}" id="about-img">
 
 <div id="describe-text">
-	<p> just want to live it louder </p>
+	<p> Don't miss the madness of youth. Time is in a hurry </p>
 	<p> 前往 <strong> <a href="https://github.com/linger529/linger529.github.io"> 存储库</a> </strong></p>
 </div>
