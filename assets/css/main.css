@@ -4,7 +4,10 @@
     font-family: 'Quicksand', sans-serif;  
     font-size: 100%;
     color: #012;
-    background-image: url(assets\img\background.jpg); }
+    background-image: url(assets\img\background.png) no-repeat top;
+    background-repeat: repeat-x;
+  
+  }
 
   a {
     color: #57A;
