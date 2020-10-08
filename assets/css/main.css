@@ -1,28 +1,13 @@
 @charset "UTF-8";
 /* =Base *//*************************************************************/
   body {
-    font-family: 'Microsoft YaHei', sans-serif;  
     font-size: 100%;
     color: #012;
     background-color: #CCFFFF;
   }
 
-  .layout-header {
-    position: relative;
-    width: 100%;
-    overflow: hidden;
-    text-align: center;
-    background-color: #555;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-position: center;
-    background-size: 100% 100%;
-    background-size: cover;
-    z-index: 100000;
-}
-
   a {
-    color: #0000FF;
+    color: #000;
     font-weight: bold;
     text-decoration: none; }
 
@@ -57,7 +42,7 @@
       font-weight: 400; }
 
   strong {
-    color:#000; }
+    color:#0000FF; }
 
   .wrapper {
     max-width: 90%;
