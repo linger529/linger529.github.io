@@ -4,13 +4,11 @@
     font-family: 'Quicksand', sans-serif;  
     font-size: 100%;
     color: #012;
-    background-image: url(assets\img\background.png) no-repeat top;
-    background-repeat: repeat-x;
-  
+    background-color: #00FFFF;
   }
 
   a {
-    color: #57A;
+    color: #7CFC00;
     font-weight: bold;
     text-decoration: none; }
 
@@ -45,7 +43,7 @@
       font-weight: 400; }
 
   strong {
-    color: #16a085; }
+    color:#0000CD; }
 
   .wrapper {
     max-width: 90%;
