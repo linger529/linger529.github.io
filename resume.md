@@ -1,51 +1,43 @@
 ---
 layout: page
-title: 个人简历
-subtitle: An awesome person
+title: 简介
+subtitle: 互相认识一下吧！
 ---
 
-<span style="float: right; "><a href="{{ '/assets/resume.pdf' | prepend: site.baseurl }}"><strong>> 点击下载</strong></a> </span>
+<!--<span style="float: right; ">
+<a href="{{ '/assets/resume.pdf' | prepend: site.baseurl }}">
+<strong>> 点击下载</strong>
+</a> 
+</span>-->
 <br>
 
-### 个人介绍
-```   ```  
+### 网站介绍
+``` 这是一个中二小白的分享学习经验和生活的网站...  ```  
 
 ### 基本信息：
-**姓名:** 
-
 **性别:** 
+男
 
-**籍贯:**
+**出生年月:** 
+1999-08-12
 
-**联系方式:**
+**邮箱:**
+1756385163@qq.com
 
+**所在地:**
+广东省广州
 
-### EDUCATION
+### 收集的句子：
 
-<span style="float: right; ">Duration</span>  
-**Course**  
- 
- 
-<span style="float: right; ">Duration</span>  
-**Course**  
-  
-
-<span style="float: right; ">Duration</span>  
-**Course**  
-
-
-### EXPERIENCE
-
- **Comapany** <span style="float: right; ">Duration</span>  
-
- 
-
- **Comapany** <span style="float: right; ">Duration</span>  
-  
-
- **Comapany** <span style="float: right; ">Duration</span>  
-
-
-### 
-
-- .
+- 1.
+   - 生命的长度
+   - 不在于你活了多久
+   - 而是取决于你记住了多少日子
+   - 而留住时间的最好方式就是把它变成珍贵的时刻
+- 2.
+   - 只有付出了百分百的努力
+   - 你才能看起来毫不费力
+- 3.
+   - 坦然面对失败吧
+   - 人的一生很漫长
+   - 有各种滋味等待你去品尝
